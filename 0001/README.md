@@ -8,4 +8,4 @@ This program should convert odd to even and even to odd by doing the following:
 
 ## Started by setting up the spec file
 
-Had problems to get the rspec to work with my first test, then it was solved by quoting the describe line: "Converting numbers"
+Had problems to get the rspec to work with my first test, then it was solved by initiating rspec (rspec --init) inside the 0001 folder!
